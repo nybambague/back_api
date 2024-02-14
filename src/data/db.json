@@ -1,0 +1,165 @@
+{
+    "productos":[
+        {
+            "id":1,
+            "nombre":"Luxury Charms Ring",
+            "imagen":"https://res.cloudinary.com/dtqcvqa81/image/upload/v1707863730/assets/Selection_1_-_copia_cqgw8c.png",
+            "precioUnitario": 620.73,
+            "codigo": 78205,
+            "tipoAccesorio": "anillo",
+            "stock":{
+                "gold":{ "s": 3, "m": 5, "l": 4},
+                "plate":{ "s": 3, "m": 5, "l": 4}
+            }
+        },
+        {
+            "id":2,
+            "nombre":"Dreamy Infinity Ring",
+            "imagen":"https://res.cloudinary.com/dtqcvqa81/image/upload/v1707863729/assets/products_img/Img_4-a_page_2_nhrr6n.png",
+            "precioUnitario": 327.71,
+            "codigo": 78206,
+            "tipoAccesorio": "anillo",
+            "stock":{
+                "gold":{ "s": 3, "m": 5, "l": 4},
+                "plate":{ "s": 3, "m": 5, "l": 4}
+            }
+
+        },
+        {
+            "id":3,
+            "nombre":"Aurora Ring",
+            "imagen":"https://res.cloudinary.com/dtqcvqa81/image/upload/v1707863727/assets/products_img/Img_2-a_page_2_ggijgl.png",
+            "precioUnitario": 125.28,
+            "codigo": 78207,
+            "tipoAccesorio": "anillo",
+            "stock":{
+                "gold":{ "s": 3, "m": 5, "l": 4},
+                "plate":{ "s": 3, "m": 5, "l": 4}
+            }
+        },
+        {
+            "id":4,
+            "nombre":"Opulent Jewels Ring",
+            "imagen":"https://res.cloudinary.com/dtqcvqa81/image/upload/v1707863727/assets/products_img/Img_1-b_page_2_szjmwh.png",
+            "precioUnitario": 168.76,
+            "codigo": 78208,
+            "tipoAccesorio": "anillo",
+            "stock":{
+                "gold":{ "s": 3, "m": 5, "l": 4},
+                "plate":{ "s": 3, "m": 5, "l": 4}
+            }
+
+        },
+        {
+            "id":5,
+            "nombre":"OTimeless Elegance Ring",
+            "imagen":"https://res.cloudinary.com/dtqcvqa81/image/upload/v1707863727/assets/products_img/Img_1-2-c-c-d-d_page_2_o5pgcx.png",
+            "precioUnitario": 168.76,
+            "codigo": 78209,
+            "tipoAccesorio": "anillo",
+            "stock":{
+                "gold":{ "s": 3, "m": 5, "l": 4},
+                "plate":{ "s": 3, "m": 5, "l": 4}
+            }
+        },
+        {
+            "id":6,
+            "nombre":"Blissful Bloom Ring",
+            "imagen":"https://res.cloudinary.com/dtqcvqa81/image/upload/v1707863729/assets/products_img/Img_4-c_page_2_tj4iim.png",
+            "precioUnitario": 327.71,
+            "codigo": 78210,
+            "tipoAccesorio": "anillo",
+            "stock":{
+                "gold":{ "s": 3, "m": 5, "l": 4},
+                "plate":{ "s": 3, "m": 5, "l": 4}
+            }
+        },
+        {
+            "id":7,
+            "nombre":"Sparkling Ring",
+            "imagen":"https://res.cloudinary.com/dtqcvqa81/image/upload/v1707863729/assets/products_img/Img_3-d_page_2_cmdhoc.png",
+            "precioUnitario": 620.73,
+            "codigo": 78211,
+            "tipoAccesorio": "anillo",
+            "stock":{
+                "gold":{ "s": 3, "m": 5, "l": 4},
+                "plate":{ "s": 3, "m": 5, "l": 4}
+            }
+        },
+        {
+            "id":8,
+            "nombre":"Glimmering Ring",
+            "imagen":"https://res.cloudinary.com/dtqcvqa81/image/upload/v1707863729/assets/products_img/Img_4-d_page_2_e8kbg2.png",
+            "precioUnitario": 620.73,
+            "codigo": 78212,
+            "tipoAccesorio": "anillo",
+            "stock":{
+                "gold":{ "s": 3, "m": 5, "l": 4},
+                "plate":{ "s": 3, "m": 5, "l": 4}
+            }
+        },
+        {
+            "id":9,
+            "nombre":"Luxury Gems Necklace",
+            "imagen":"https://res.cloudinary.com/dtqcvqa81/image/upload/v1707863727/assets/products_img/Img_1-a_page_2_wsblj3.png",
+            "precioUnitario": 168.76,
+            "codigo": 78213,
+            "tipoAccesorio": "collar",
+            "stock":{
+                "gold": 9,
+                "plate":7
+            }
+        },
+        {
+            "id":10,
+            "nombre":"Reflections Necklace",
+            "imagen":"https://res.cloudinary.com/dtqcvqa81/image/upload/v1707863728/assets/products_img/Img_3-a_page_2_s3yw6q.png",
+            "precioUnitario": 620.73,
+            "codigo": 78214,
+            "tipoAccesorio": "brazalete",
+            "stock":{
+                "gold":7,
+                "plate":9
+            }
+        },
+        {
+            "id":11,
+            "nombre":"Serene Solitaire Earrings",
+            "imagen":"https://res.cloudinary.com/dtqcvqa81/image/upload/v1707863727/assets/products_img/Img_2-b_page_2_gcif6b.png",
+            "precioUnitario":  125.28,
+            "codigo": 78215,
+            "tipoAccesorio": "Aretes",
+            "stock":{
+                "gold":9,
+                "plate":7
+            }
+        },
+        {
+            
+            "id":12,
+            "nombre":"Timeless Halo Earrings",
+            "imagen": "https://res.cloudinary.com/dtqcvqa81/image/upload/v1707863728/assets/products_img/Img_3-b_page_2_f41jun.png",
+            "precioUnitario": 620.73,
+            "codigo": 78216,
+            "tipoAccesorio": "Aretes",
+            "stock":{
+                "gold":9,
+                "plate":7
+            }
+        },
+        {
+           
+            "id":13,
+            "nombre":"Exquisite Earrings",
+            "imagen": "https://res.cloudinary.com/dtqcvqa81/image/upload/v1707863729/assets/products_img/Img_4-b_page_2_kbmppa.png",
+            "precioUnitario": 327.71,
+            "codigo": 78217,
+            "tipoAccesorio": "Aretes",
+            "stock":{
+                "gold":9,
+                "plate":7
+            } 
+        }
+    ],
+    "ordenesCompra":[]
+}
